@@ -9,4 +9,4 @@ Install frontend dependencies in `frontend` with `npm ci`, then use `npm run dev
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
